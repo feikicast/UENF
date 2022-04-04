@@ -1,4 +1,5 @@
 from time import sleep
+
 def menu_hoje():
     print('''---------------------
 O que você vai fazer hoje?
